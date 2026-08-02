@@ -6,9 +6,6 @@ I specialize in software development, data analysis, artificial intelligence, an
 technology and data to create efficient.
 
 
-  <a href="https://h530.dev">website</a> ~ <code>h530.dev</code> •
-  <a href="https://instagram.com/">Instagram</a> ~ <code>@h530.dev</code> •
-  <a href="mailto:ivan@iverse.dev">Email</a> ~ <code>hugo39452@</code>
   
 <div>
   <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>&nbsp;
