@@ -2,7 +2,9 @@
 
 Full Stack Software Engineer passionate about creating modern applications with a strong focus on performance. 
 
-Experience in collaborative work methodologies such as SCRUM. Knowledge in artificial intelligence (AI), business intelligence (BI).
+I specialize in software development, data analysis, artificial intelligence, and financial management, combining 
+technology and data to create efficient.
+
 
   <a href="https://h530.dev">website</a> ~ <code>h530.dev</code> •
   <a href="https://instagram.com/">Instagram</a> ~ <code>@h530.dev</code> •
